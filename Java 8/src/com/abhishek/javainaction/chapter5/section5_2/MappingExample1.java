@@ -1,4 +1,4 @@
-package com.abhishek.javainaction.chapter5;
+package com.abhishek.javainaction.chapter5.section5_2;
 
 import com.abhishek.javainaction.utils.Dish;
 import com.abhishek.javainaction.utils.DishList;

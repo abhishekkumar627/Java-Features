@@ -1,4 +1,4 @@
-package com.abhishek.javainaction.chapter5;
+package com.abhishek.javainaction.chapter5.section5_2;
 
 import java.net.Inet4Address;
 import java.util.Arrays;
