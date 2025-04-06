@@ -1,4 +1,4 @@
-package com.abhishek.javainaction.chapter4;
+package com.abhishek.javainaction.utils;
 
 public class Dish {
     private final String name;

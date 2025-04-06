@@ -1,5 +1,8 @@
 package com.abhishek.javainaction.chapter4;
 
+import com.abhishek.javainaction.utils.Dish;
+import com.abhishek.javainaction.utils.DishList;
+
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;

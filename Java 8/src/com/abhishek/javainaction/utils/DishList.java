@@ -1,4 +1,4 @@
-package com.abhishek.javainaction.chapter4;
+package com.abhishek.javainaction.utils;
 
 import java.util.Arrays;
 import java.util.List;
